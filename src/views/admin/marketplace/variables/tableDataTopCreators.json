@@ -1,0 +1,52 @@
+[
+  {
+    "name": [
+      "The Mint",
+      "https://yt3.googleusercontent.com/AlJ_9rmmQAMjpN4pvgroz1Hp4GRxgybQ7fJQaz8qbyDnj93XTMUi5HyKZtPxKKyhZeMK3GB7aaU=s900-c-k-c0x00ffffff-no-rj"
+    ],
+    "artworks": "9821",
+    "rating": 30
+  },
+  {
+    "name": [
+      "The Telegraph",
+      "https://www.traveleyes-international.com/wp-content/uploads/2015/10/telegraph_twitter_avi.png"
+    ],
+    "artworks": "7032",
+    "rating": 30
+  },
+  {
+    "name": [
+      "ABP News Network",
+      "https://india.mom-gmr.org/uploads/_processed_/d/2/csm_16556-1592_company_import_1e8d85c67f.png"
+    ],
+    "artworks": "5204",
+    "rating": 30
+  },
+  {
+    "name": [
+      "The Economic Times",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfZKg8Ry3yXbS3uNEWIsZKCYfNQls7VKZbFJB4BGdew&s"
+    ],
+    "artworks": "4309",
+    "rating": 30
+  },
+  {
+    "name": ["India Today", "https://bakewithshivesh.com/wp-content/uploads/2018/10/india-today-squarelogo.png"],
+    "artworks": "3871",
+    "rating": 30
+  },
+  {
+    "name": ["Indian Express", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzzr48JhszLboPbaBx-O0-RrTKncuF_Jj4aLojK0msHg&s"],
+    "artworks": "3152",
+    "rating": 30
+  },
+  {
+    "name": [
+      "Hindustan Times",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZwZbDOO1zLQjvr4AAAgnPnKe37cXxtBxfQKcasm5Gg&s"
+    ],
+    "artworks": "2907",
+    "rating": 30
+  }
+]
